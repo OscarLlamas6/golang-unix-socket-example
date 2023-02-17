@@ -33,6 +33,6 @@ func main() {
 			panic(err)
 		}
 
-		time.Sleep(time.Duration(300) * time.Second)
+		time.Sleep(time.Duration(3) * time.Second)
 	}
 }
